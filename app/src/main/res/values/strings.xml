@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjercicioGPS</string>
+    <string name="btn_gps">habilitar GPS en el celular</string>
+
+    <string name="dialog_text_title">Habilitar GPS?</string>
+    <string name="dialog_text_description">Esta aplicacion necesita hacer uso de sus coordenadas, desea habilitar las mismas.</string>
+    <string name="dialog_button_accept">Habilitar</string>
+    <string name="dialog_button_deny">Denegar</string>
+    <string name="btn_coordenadas">Este boton obtiene coordemnadas en androidd</string>
+</resources>
